@@ -1,6 +1,6 @@
 ### Olá, sou Nayara Oliveira e sejam bem vindos(as) ao meu GitHub 👋
 
-Sou Acadêmica de Ciências Sociais na Universidade Federal do Pará - UFPA. Tenho como hobby assuntos relacionados a tecnologia, programação. Também gosto de filmes, séries, música e cerveja. Atualmente venho aprendendo a programação WEB através do projeto Novos Caminhos.
+Sou Acadêmica de Comunicação Social na Universidade Federal do Pará - UFPA. Tenho como hobby assuntos relacionados a tecnologia, programação. Também gosto de filmes, séries, música e cerveja. Atualmente venho aprendendo a programação WEB através do projeto Novos Caminhos.
 
 Meus contatos:
 <ul>
